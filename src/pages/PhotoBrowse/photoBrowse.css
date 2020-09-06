@@ -1,0 +1,10 @@
+.browse-row {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 4px;
+  }
+  .browse-col {
+    flex: 50%;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
